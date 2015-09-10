@@ -12,6 +12,7 @@ public class Main {
             System.out.println(hakija.haeViimeisinUutinen());
         } else if(args[0].equals("suosituin")){
             System.out.println(hakija.haeSuosituinUutinen());
+            System.out.println("JEEE");
         }
     }
     
