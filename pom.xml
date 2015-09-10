@@ -23,6 +23,7 @@
             <version>2.2.4</version>
         </dependency>
     </dependencies>
+    <build>
     <plugins>
         <plugin>
         <groupId>org.eluder.coveralls</groupId>
@@ -31,6 +32,7 @@
         <configuration>
             <repoToken>DEDVzQBUHg6ZG1zpB4AcfW4D1KdGLywx8</repoToken>
         </configuration>
-</plugin>
+        </plugin>
     </plugins>
+    </build>
 </project>
